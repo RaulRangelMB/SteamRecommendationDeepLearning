@@ -44,4 +44,4 @@ Query: "not bloody"
 
 This query, just like in my TF-IDF implementation of a search mechanism, also tends to give you results with bloody games!
 
-![result of the query "not bloody"](img/Step3Result.PNG)
+![result of the query "not bloody"](img/Step3Result.png)
